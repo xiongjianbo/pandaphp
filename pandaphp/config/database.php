@@ -15,7 +15,7 @@ return [
     // 用户名
     'username'        => 'root',
     // 密码
-    'password'        => 'apkhz123456',
+    'password'        => '111',
     // 端口
     'hostport'        => '3306',
     // 连接dsn
