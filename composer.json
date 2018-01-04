@@ -1,0 +1,21 @@
+{
+    "name": "pandaphp/php-framework",
+    "description": "php-framework",
+    "authors": [
+        {
+            "name": "xiongjianbo",
+            "email": "i@89ge.cn"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0.0",
+        "pandaphp/think-orm":"v1.2"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "git",
+            "url": "https://github.com/qq10044375/think-orm.git"
+        }
+    }
+}
